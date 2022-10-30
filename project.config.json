@@ -6,22 +6,16 @@
   },
   "miniprogramRoot": "miniprogram/",
   "compileType": "miniprogram",
-  "projectname": "ts-sass-demo",
+  "projectname": "ts-demo",
   "setting": {
     "useCompilerPlugins": [
-      "typescript",
-      "sass"
+      "typescript"
     ],
     "babelSetting": {
       "ignore": [],
       "disablePlugins": [],
       "outputPath": ""
-    },
-    "es6": true,
-    "enhance": true,
-    "postcss": true,
-    "minified": true,
-    "uglifyFileName": true
+    }
   },
   "simulatorType": "wechat",
   "simulatorPluginLibVersion": {},
